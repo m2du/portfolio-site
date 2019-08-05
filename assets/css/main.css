@@ -3095,7 +3095,8 @@ input, select, textarea {
 						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
-						font-weight: 900;
+                        font-weight: 900;
+                        font-family: "Font Awesome 5 Free"
 					}
 
 					#titleBar .toggle:before {
